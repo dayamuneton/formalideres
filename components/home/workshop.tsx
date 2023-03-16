@@ -7,8 +7,6 @@ function Workshop() {
          <span className="absolute text-xl text-white bg-black left-4">
             Arte, ciencia y Tecnología
          </span>
-         <SouthIcon className="text-blue-800" sx={{ fontSize: "4rem" }} />
-         <div className="bg-red-500 h-2 w-[90vw] my-8"></div>
          <div className="relative flex flex-col items-center">
             <p className="text-blue-600 rotate-[-5deg] text-5xl left-[-7rem] absolute font-cutive">
                Workshop
